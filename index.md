@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final year Computer Science undergrad at IIIT Delhi. I am interested on working on new interesting tech/research projects. 
+I am a final year Computer Science undergrad at IIIT Delhi. I am interested on working on new interesting tech/research projects around AI/ML. 
 
 ## Research Interests
 My research interests include but are not limited to Natural Language Processing, Large Language Models, Knowledge Graphs, Agentic AI, Retrieval Augmented Generation, Deep Learning, Generative AI, Reinforcement Learning.
