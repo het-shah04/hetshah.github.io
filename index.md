@@ -19,7 +19,7 @@ I have been working as an Undergraduate Researcher at IIIT Delhi in Flame.nlp Re
   Accepted at AAAI 2026.
 - Rethinking Reward Models! A Conceptual Framework for Enhancing LLM Reasoning through Intrinsic Traits
   <strong>Het Riteshkumar Shah</strong>, Megha Sundriyal
-  Accepted at AAAI 2026 PLAN-FM Workshop.
+  Accepted at AAAI 2026 PLAN-FM Bridge Workshop.
 -  Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation<br>
    Abdullah Mazhar, Het Riteshkumar Shah, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar<br>
    Under Review<br>
