@@ -14,13 +14,16 @@ I have been working as an Undergraduate Researcher at IIIT Delhi in Flame.nlp Re
 
 ## Publications
 
+- PAL: Personal Adaptive Learner<br>
+  Megha Chakraborty, Darssan L. Eswaramoorthi, Madhur Thareja, <strong>Het Riteshkumar Shah</strong>, Finlay Palmer, Aryaman Bahl, Michelle A Ihetu, Amit Sheth<br>
+  Accepted at AAAI 2026.
+- Rethinking Reward Models! A Conceptual Framework for Enhancing LLM Reasoning through Intrinsic Traits
+  <strong>Het Riteshkumar Shah</strong>, Megha Sundriyal
+  Accepted at AAAI 2026 PLAN-FM Workshop.
 -  Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation<br>
    Abdullah Mazhar, Het Riteshkumar Shah, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar<br>
    Under Review<br>
 -  CANDI – Contextual Alignment for Niche Domains Question Answering<br>
    Megha Chakraborty, Darssan L. Eswaramoorthi, Het Riteshkumar Shah, Madhur Thareja, Michelle A Ihetu, Harshul Raj Surana, Kaushik Roy, Amit Sheth<br>
    Under Review<br>
-- PAL: Personal Adaptive Learner<br>
-  Megha Chakraborty, Darssan L. Eswaramoorthi, Madhur Thareja, Het Riteshkumar Shah, Finlay Palmer, Aryaman Bahl, Michelle A Ihetu, Amit Sheth<br>
-  Under Review<br>
 
