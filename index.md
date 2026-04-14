@@ -14,15 +14,18 @@ I have been working as an Undergraduate Researcher at IIIT Delhi in Flame.nlp Re
 
 ## Publications
 
+-  Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation<br>
+   Abdullah Mazhar, <strong>Het Riteshkumar Shah, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar<br>
+   Accepted at ACL 2026 Oral Presentation
 - PAL: Personal Adaptive Learner<br>
   Megha Chakraborty, Darssan L. Eswaramoorthi, Madhur Thareja, <strong>Het Riteshkumar Shah</strong>, Finlay Palmer, Aryaman Bahl, Michelle A Ihetu, Amit Sheth<br>
   Accepted at AAAI 2026.<br>
 - Rethinking Reward Models! A Conceptual Framework for Enhancing LLM Reasoning through Intrinsic Traits<br>
   <strong>Het Riteshkumar Shah</strong>, Megha Sundriyal<br>
   Accepted at AAAI 2026 PLAN-FM Bridge Workshop.<br>
--  Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation<br>
-   Abdullah Mazhar, Het Riteshkumar Shah, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar<br>
-   Under Review<br>
+- Keep it SIMPLE, Bing! Leveraging Contrastive Regularization for Multimodal Sarcasm Explanation <br>
+  <strong>Het Riteshkumar Shah, Palaash Goel, Md. Shad Akhtar <br>
+  Under Review <br>
 -  CANDI – Contextual Alignment for Niche Domains Question Answering<br>
    Megha Chakraborty, Darssan L. Eswaramoorthi, Het Riteshkumar Shah, Madhur Thareja, Michelle A Ihetu, Harshul Raj Surana, Kaushik Roy, Amit Sheth<br>
    Under Review<br>
