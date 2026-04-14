@@ -15,7 +15,7 @@ I have been working as an Undergraduate Researcher at IIIT Delhi in Flame.nlp Re
 ## Publications
 
 -  Measuring What Matters!! Assessing Therapeutic Principles in Mental-Health Conversation<br>
-   Abdullah Mazhar, <strong>Het Riteshkumar Shah, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar<br>
+   Abdullah Mazhar, <strong>Het Riteshkumar Shah</strong>, Aseem Srivastava, Smriti Joshi, Md Shad Akhtar<br>
    Accepted at ACL 2026 Oral Presentation
 - PAL: Personal Adaptive Learner<br>
   Megha Chakraborty, Darssan L. Eswaramoorthi, Madhur Thareja, <strong>Het Riteshkumar Shah</strong>, Finlay Palmer, Aryaman Bahl, Michelle A Ihetu, Amit Sheth<br>
