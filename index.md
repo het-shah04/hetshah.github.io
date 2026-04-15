@@ -24,9 +24,9 @@ I have been working as an Undergraduate Researcher at IIIT Delhi in Flame.nlp Re
   <strong>Het Riteshkumar Shah</strong>, Megha Sundriyal<br>
   Accepted at AAAI 2026 PLAN-FM Bridge Workshop.<br>
 - Keep it SIMPLE, Bing! Leveraging Contrastive Regularization for Multimodal Sarcasm Explanation <br>
-  <strong>Het Riteshkumar Shah, Palaash Goel, Md. Shad Akhtar <br>
+  <strong>Het Riteshkumar Shah</strong>, Palaash Goel, Md. Shad Akhtar <br>
   Under Review <br>
 -  CANDI – Contextual Alignment for Niche Domains Question Answering<br>
-   Megha Chakraborty, Darssan L. Eswaramoorthi, Het Riteshkumar Shah, Madhur Thareja, Michelle A Ihetu, Harshul Raj Surana, Kaushik Roy, Amit Sheth<br>
+   Megha Chakraborty, Darssan L. Eswaramoorthi, <strong>Het Riteshkumar Shah</strong>, Madhur Thareja, Michelle A Ihetu, Harshul Raj Surana, Kaushik Roy, Amit Sheth<br>
    Under Review<br>
 
