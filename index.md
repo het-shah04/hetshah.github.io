@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a final year Computer Science undergrad at IIIT Delhi. I am interested on working on new interesting tech/research projects in AI/ML. 
+Hi! I am Het, a recent Computer Science graduate from IIIT Delhi. I have experience in working on projects around Natural Language Processing (NLP), Deep Learning (DL) and Reinforcement Learning (RL). I have done various internships and also published research papers at top venues like ACL, AAAI. I am open to discussing about new job/research opportunities around machine learning. Please feel free to contact me at het.shah25052004@gmail.com.
 
 ## Research Interests
 My research interests include but are not limited to Natural Language Processing, Large Language Models, Knowledge Graphs, Agentic AI, Retrieval Augmented Generation, Deep Learning, Generative AI, Reinforcement Learning.
